@@ -1,12 +1,9 @@
 {
   "name": "npm_hellotmg",
-  "version": "1.0.8",
+  "version": "2.0.0",
   "description": "Prueba libreria a npm",
   "main": "src/index.js",
   "type": "module",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "Tomás Martínez - TMI <tmi.tomas@gmail.com> (tomas.tmisl.es)",
   "repository": "https://github.com/TomasTMI/npm_helloTMG",

@@ -1,7 +1,10 @@
-const version = "1.0.8";
+const persons = {
+  person1: 'Tomás',
+  person2: 'David'
+};
 
 const hello = (name) => {
-  return("Hola " + name);
+  return(`Hola ${name}`);
 }
 
-export {version, hello}
+export {persons, hello}
